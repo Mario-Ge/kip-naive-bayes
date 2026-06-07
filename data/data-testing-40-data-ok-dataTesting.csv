@@ -1,0 +1,41 @@
+kode_pendaftar,nama,penghasilan,pekerjaan,status,tanggungan,nilai_raport,nilai_tes,prestasi,pkh,kks,kip
+P001,Citra,Sangat Rendah,Tidak Bekerja,Piatu,Sedikit,Rendah,Rendah,Banyak,Ada,Ada,Tidak Ada
+P006,Citra,Tinggi,Informal,Yatim Piatu,Banyak,Sedang,Rendah,Sedikit,Tidak Ada,Ada,Tidak Ada
+P036,Rina,Rendah,Formal,Piatu,Sedikit,Rendah,Tinggi,Sedikit,Tidak Ada,Tidak Ada,Tidak Ada
+P038,Joko,Menengah,Formal,Piatu,Banyak,Rendah,Tinggi,Sedikit,Tidak Ada,Tidak Ada,Tidak Ada
+P052,Putra,Tinggi,Informal,Yatim,Sedang,Sedang,Sedang,Sedikit,Tidak Ada,Tidak Ada,Tidak Ada
+P063,Sari,Tinggi,Formal,Yatim,Sedang,Tinggi,Tinggi,Sedikit,Tidak Ada,Tidak Ada,Tidak Ada
+P081,Hadi,Tinggi,Tidak Bekerja,Yatim,Sedang,Tinggi,Sedang,Banyak,Tidak Ada,Tidak Ada,Tidak Ada
+P101,Gina,Tinggi,Formal,Yatim,Sedang,Tinggi,Rendah,Sedikit,Tidak Ada,Tidak Ada,Ada
+P107,Putra,Sangat Rendah,Informal,Single Parent,Sedikit,Tinggi,Rendah,Banyak,Tidak Ada,Tidak Ada,Ada
+P119,Gina,Tinggi,Formal,Piatu,Sedikit,Rendah,Sedang,Banyak,Ada,Ada,Ada
+P122,Lina,Tinggi,Formal,Yatim Piatu,Sedang,Rendah,Sedang,Tidak ada,Tidak Ada,Ada,Tidak Ada
+P192,Rina,Sangat Rendah,Informal,Piatu,Banyak,Rendah,Rendah,Banyak,Ada,Tidak Ada,Tidak Ada
+P002,Andi,Rendah,Tidak Bekerja,Single Parent,Banyak,Rendah,Tinggi,Tidak ada,Tidak Ada,Ada,Tidak Ada
+P007,Budi,Rendah,Formal,Yatim,Sedikit,Sedang,Sedang,Sedikit,Ada,Tidak Ada,Ada
+P013,Tono,Sangat Rendah,Formal,Piatu,Sedang,Rendah,Rendah,Sedikit,Tidak Ada,Ada,Ada
+P023,Citra,Sangat Rendah,Formal,Piatu,Sedikit,Rendah,Tinggi,Sedikit,Ada,Ada,Ada
+P025,Joko,Menengah,Informal,Yatim,Banyak,Tinggi,Sedang,Tidak ada,Tidak Ada,Tidak Ada,Ada
+P032,Fajar,Menengah,Tidak Bekerja,Yatim,Banyak,Rendah,Sedang,Banyak,Tidak Ada,Ada,Ada
+P042,Tono,Rendah,Tidak Bekerja,Lengkap,Sedikit,Rendah,Sedang,Banyak,Ada,Tidak Ada,Tidak Ada
+P053,Gina,Sangat Rendah,Formal,Single Parent,Sedikit,Sedang,Rendah,Banyak,Ada,Ada,Ada
+P060,Lina,Tinggi,Formal,Single Parent,Banyak,Sedang,Sedang,Tidak ada,Tidak Ada,Tidak Ada,Ada
+P066,Eka,Rendah,Informal,Lengkap,Banyak,Tinggi,Rendah,Sedikit,Ada,Ada,Tidak Ada
+P073,Oka,Rendah,Formal,Yatim,Sedang,Rendah,Rendah,Tidak ada,Ada,Tidak Ada,Tidak Ada
+P083,Lina,Menengah,Formal,Piatu,Sedikit,Sedang,Tinggi,Sedikit,Tidak Ada,Ada,Tidak Ada
+P089,Tono,Sangat Rendah,Tidak Bekerja,Piatu,Sedikit,Sedang,Sedang,Sedikit,Tidak Ada,Ada,Ada
+P096,Joko,Rendah,Tidak Bekerja,Single Parent,Sedang,Tinggi,Tinggi,Sedikit,Ada,Tidak Ada,Tidak Ada
+P103,Tono,Tinggi,Tidak Bekerja,Yatim,Banyak,Tinggi,Tinggi,Tidak ada,Ada,Tidak Ada,Ada
+P109,Sari,Menengah,Informal,Single Parent,Banyak,Sedang,Sedang,Banyak,Tidak Ada,Ada,Ada
+P115,Andi,Menengah,Informal,Piatu,Sedikit,Rendah,Rendah,Banyak,Tidak Ada,Ada,Ada
+P123,Hadi,Sangat Rendah,Informal,Lengkap,Sedikit,Sedang,Tinggi,Sedikit,Ada,Tidak Ada,Tidak Ada
+P130,Mira,Rendah,Tidak Bekerja,Yatim,Banyak,Sedang,Sedang,Banyak,Ada,Tidak Ada,Tidak Ada
+P137,Tono,Menengah,Formal,Yatim Piatu,Sedikit,Tinggi,Rendah,Sedikit,Tidak Ada,Ada,Tidak Ada
+P140,Hadi,Rendah,Informal,Lengkap,Sedikit,Sedang,Sedang,Tidak ada,Tidak Ada,Ada,Tidak Ada
+P147,Oka,Menengah,Formal,Yatim,Banyak,Sedang,Tinggi,Sedikit,Ada,Ada,Ada
+P159,Citra,Rendah,Tidak Bekerja,Yatim,Sedang,Rendah,Sedang,Banyak,Tidak Ada,Tidak Ada,Ada
+P168,Kiki,Rendah,Tidak Bekerja,Lengkap,Sedang,Sedang,Tinggi,Sedikit,Ada,Ada,Tidak Ada
+P180,Indah,Menengah,Formal,Piatu,Banyak,Tinggi,Tinggi,Banyak,Tidak Ada,Tidak Ada,Ada
+P189,Gina,Rendah,Formal,Yatim Piatu,Banyak,Sedang,Tinggi,Tidak ada,Ada,Tidak Ada,Tidak Ada
+P196,Nina,Sangat Rendah,Formal,Yatim,Banyak,Tinggi,Sedang,Tidak ada,Tidak Ada,Ada,Tidak Ada
+P199,Lina,Rendah,Tidak Bekerja,Yatim Piatu,Sedang,Sedang,Sedang,Sedikit,Tidak Ada,Ada,Ada
