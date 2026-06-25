@@ -1,0 +1,161 @@
+kode_pendaftar,nama,penghasilan,pekerjaan,status,tanggungan,nilai_raport,nilai_tes,prestasi,pkh,kks,kip,target
+P0006,Budi Nugroho,Rendah,Formal,Yatim,Sedikit,Sedang,Sedang,Sedikit,Ada,Tidak Ada,Ada,Layak
+P0007,Oka Wijaya,Tinggi,Informal,Lengkap,Sedikit,Tinggi,Tinggi,Sedikit,Ada,Tidak Ada,Tidak Ada,Layak
+P0008,Eka Utami,Menengah,Tidak Bekerja,Yatim,Banyak,Tinggi,Tinggi,Sedikit,Tidak Ada,Tidak Ada,Tidak Ada,Layak
+P0009,Oka Utami,Tinggi,Tidak Bekerja,Lengkap,Sedikit,Rendah,Tinggi,Tidak Ada,Tidak Ada,Ada,Tidak Ada,Tidak Layak
+P0010,Fajar Sari,Menengah,Formal,Lengkap,Banyak,Tinggi,Rendah,Banyak,Tidak Ada,Tidak Ada,Ada,Layak
+P0011,Fajar Utami,Sangat Rendah,Formal,Piatu,Banyak,Rendah,Tinggi,Tidak Ada,Tidak Ada,Ada,Ada,Layak
+P0012,Tono Pratama,Sangat Rendah,Formal,Piatu,Sedang,Rendah,Rendah,Sedikit,Tidak Ada,Ada,Ada,Layak
+P0013,Umar Hidayat,Sangat Rendah,Formal,Yatim Piatu,Sedikit,Tinggi,Rendah,Tidak Ada,Tidak Ada,Ada,Tidak Ada,Layak
+P0014,Hadi Pratama,Rendah,Formal,Yatim,Banyak,Sedang,Sedang,Banyak,Tidak Ada,Tidak Ada,Tidak Ada,Tidak Layak
+P0015,Budi Nugroho,Menengah,Tidak Bekerja,Single Parent,Banyak,Rendah,Tinggi,Tidak Ada,Ada,Ada,Ada,Layak
+P0016,Nina Rahman,Sangat Rendah,Formal,Yatim,Sedang,Tinggi,Sedang,Tidak Ada,Ada,Tidak Ada,Ada,Layak
+P0017,Kiki Pratama,Sangat Rendah,Tidak Bekerja,Yatim Piatu,Sedang,Sedang,Sedang,Sedikit,Ada,Ada,Ada,Layak
+P0018,Citra Sari,Rendah,Tidak Bekerja,Yatim,Banyak,Sedang,Rendah,Sedikit,Ada,Tidak Ada,Tidak Ada,Layak
+P0019,Mira Saputra,Sangat Rendah,Tidak Bekerja,Single Parent,Sedikit,Rendah,Rendah,Tidak Ada,Tidak Ada,Tidak Ada,Tidak Ada,Tidak Layak
+P0020,Gina Saputra,Rendah,Informal,Lengkap,Sedang,Sedang,Sedang,Sedikit,Tidak Ada,Tidak Ada,Ada,Layak
+P0021,Citra Setiawan,Sangat Rendah,Formal,Piatu,Sedikit,Rendah,Tinggi,Sedikit,Ada,Ada,Ada,Layak
+P0022,Tono Utami,Sangat Rendah,Formal,Yatim,Sedang,Rendah,Tinggi,Tidak Ada,Ada,Ada,Tidak Ada,Layak
+P0023,Joko Sari,Menengah,Informal,Yatim,Banyak,Tinggi,Sedang,Tidak Ada,Tidak Ada,Tidak Ada,Ada,Layak
+P0024,Lina Pratama,Menengah,Tidak Bekerja,Lengkap,Sedang,Tinggi,Tinggi,Tidak Ada,Ada,Ada,Tidak Ada,Layak
+P0025,Dedi Wijaya,Rendah,Informal,Piatu,Sedikit,Sedang,Tinggi,Banyak,Tidak Ada,Ada,Tidak Ada,Layak
+P0026,Indah Utami,Menengah,Tidak Bekerja,Lengkap,Banyak,Tinggi,Rendah,Sedikit,Tidak Ada,Ada,Tidak Ada,Layak
+P0027,Indah Wijaya,Tinggi,Informal,Lengkap,Sedikit,Tinggi,Sedang,Sedikit,Ada,Ada,Tidak Ada,Layak
+P0084,Mira Putri,Tinggi,Informal,Lengkap,Sedikit,Sedang,Tinggi,Sedikit,Tidak Ada,Tidak Ada,Ada,Layak
+P0085,Umar Putri,Sangat Rendah,Formal,Lengkap,Banyak,Tinggi,Sedang,Sedikit,Ada,Tidak Ada,Ada,Layak
+P0086,Citra Putri,Rendah,Formal,Lengkap,Banyak,Tinggi,Rendah,Sedikit,Tidak Ada,Ada,Tidak Ada,Layak
+P0087,Putra Putri,Menengah,Formal,Yatim Piatu,Sedikit,Rendah,Rendah,Banyak,Tidak Ada,Tidak Ada,Ada,Layak
+P0088,Andi Putri,Menengah,Tidak Bekerja,Yatim Piatu,Sedikit,Rendah,Rendah,Banyak,Tidak Ada,Tidak Ada,Ada,Layak
+P0089,Putra Saputra,Sangat Rendah,Informal,Piatu,Banyak,Tinggi,Tinggi,Sedikit,Tidak Ada,Tidak Ada,Ada,Layak
+P0090,Budi Putri,Menengah,Formal,Yatim,Banyak,Rendah,Tinggi,Sedikit,Tidak Ada,Tidak Ada,Ada,Tidak Layak
+P0091,Eka Hidayat,Tinggi,Tidak Bekerja,Lengkap,Sedikit,Tinggi,Rendah,Sedikit,Tidak Ada,Tidak Ada,Tidak Ada,Tidak Layak
+P0274,Eka Wijaya,Sangat Rendah,Formal,Piatu,Sedikit,Sedang,Tinggi,Banyak,Tidak Ada,Ada,Tidak Ada,Layak
+P0275,Joko Wijaya,Tinggi,Formal,Yatim Piatu,Banyak,Sedang,Rendah,Banyak,Tidak Ada,Ada,Ada,Tidak Layak
+P0276,Umar Rahman,Rendah,Formal,Lengkap,Banyak,Tinggi,Sedang,Banyak,Ada,Ada,Tidak Ada,Layak
+P0277,Citra Nugroho,Sangat Rendah,Informal,Yatim,Sedang,Tinggi,Rendah,Tidak Ada,Tidak Ada,Tidak Ada,Ada,Layak
+P0278,Budi Hidayat,Tinggi,Tidak Bekerja,Piatu,Sedikit,Rendah,Tinggi,Tidak Ada,Tidak Ada,Tidak Ada,Ada,Tidak Layak
+P0279,Tono Rahman,Tinggi,Formal,Yatim Piatu,Sedikit,Sedang,Sedang,Sedikit,Tidak Ada,Tidak Ada,Ada,Layak
+P0280,Mira Wijaya,Rendah,Informal,Lengkap,Sedikit,Sedang,Rendah,Sedikit,Tidak Ada,Ada,Ada,Layak
+P0281,Nina Wijaya,Sangat Rendah,Formal,Lengkap,Sedang,Tinggi,Tinggi,Sedikit,Ada,Tidak Ada,Ada,Layak
+P0282,Budi Hidayat,Sangat Rendah,Tidak Bekerja,Piatu,Sedikit,Rendah,Sedang,Banyak,Tidak Ada,Tidak Ada,Tidak Ada,Tidak Layak
+P0283,Gina Wijaya,Tinggi,Tidak Bekerja,Lengkap,Sedang,Rendah,Sedang,Tidak Ada,Tidak Ada,Tidak Ada,Ada,Layak
+P0284,Mira Wijaya,Menengah,Tidak Bekerja,Yatim Piatu,Sedikit,Sedang,Sedang,Sedikit,Tidak Ada,Tidak Ada,Ada,Layak
+P0285,Indah Setiawan,Menengah,Informal,Piatu,Sedikit,Sedang,Rendah,Sedikit,Tidak Ada,Tidak Ada,Tidak Ada,Tidak Layak
+P0286,Rina Hidayat,Sangat Rendah,Tidak Bekerja,Lengkap,Sedikit,Tinggi,Sedang,Banyak,Tidak Ada,Ada,Ada,Layak
+P0287,Oka Wijaya,Tinggi,Formal,Yatim,Sedang,Sedang,Rendah,Sedikit,Ada,Ada,Ada,Tidak Layak
+P0288,Indah Nugroho,Rendah,Tidak Bekerja,Yatim,Sedikit,Rendah,Sedang,Tidak Ada,Tidak Ada,Ada,Ada,Layak
+P0289,Umar Setiawan,Sangat Rendah,Tidak Bekerja,Yatim Piatu,Banyak,Sedang,Tinggi,Sedikit,Tidak Ada,Tidak Ada,Ada,Layak
+P0290,Sari Nugroho,Tinggi,Tidak Bekerja,Yatim Piatu,Sedikit,Rendah,Tinggi,Banyak,Ada,Ada,Ada,Tidak Layak
+P0291,Eka Setiawan,Tinggi,Informal,Yatim Piatu,Banyak,Sedang,Tinggi,Banyak,Tidak Ada,Ada,Ada,Layak
+P0292,Joko Putri,Tinggi,Tidak Bekerja,Yatim Piatu,Sedang,Tinggi,Rendah,Tidak Ada,Tidak Ada,Tidak Ada,Tidak Ada,Layak
+P0293,Umar Pratama,Menengah,Informal,Lengkap,Sedikit,Rendah,Sedang,Banyak,Tidak Ada,Tidak Ada,Tidak Ada,Tidak Layak
+P0294,Rina Hidayat,Rendah,Informal,Yatim,Sedang,Tinggi,Sedang,Banyak,Tidak Ada,Ada,Ada,Tidak Layak
+P0295,Lina Rahman,Rendah,Formal,Single Parent,Sedikit,Rendah,Rendah,Tidak Ada,Ada,Ada,Ada,Layak
+P0296,Oka Wijaya,Menengah,Informal,Yatim Piatu,Banyak,Sedang,Tinggi,Tidak Ada,Ada,Ada,Tidak Ada,Layak
+P0297,Fajar Setiawan,Tinggi,Formal,Single Parent,Sedang,Sedang,Rendah,Sedikit,Ada,Tidak Ada,Ada,Tidak Layak
+P0298,Eka Wijaya,Rendah,Tidak Bekerja,Yatim,Banyak,Rendah,Sedang,Banyak,Tidak Ada,Ada,Ada,Layak
+P0299,Oka Putri,Sangat Rendah,Tidak Bekerja,Piatu,Banyak,Sedang,Tinggi,Banyak,Tidak Ada,Tidak Ada,Tidak Ada,Layak
+P0300,Umar Setiawan,Rendah,Informal,Piatu,Banyak,Tinggi,Tinggi,Sedikit,Ada,Ada,Tidak Ada,Layak
+P0547,Putra Saputra,Menengah,Formal,Piatu,Sedang,Sedang,Tinggi,Banyak,Ada,Tidak Ada,Tidak Ada,Layak
+P0548,Budi Setiawan,Rendah,Formal,Single Parent,Sedikit,Sedang,Rendah,Sedikit,Ada,Tidak Ada,Tidak Ada,Tidak Layak
+P0549,Mira Rahman,Rendah,Formal,Single Parent,Sedikit,Sedang,Rendah,Tidak Ada,Ada,Tidak Ada,Ada,Layak
+P0550,Nina Nugroho,Tinggi,Informal,Single Parent,Banyak,Tinggi,Rendah,Banyak,Tidak Ada,Tidak Ada,Ada,Tidak Layak
+P0551,Oka Hidayat,Tinggi,Informal,Lengkap,Sedang,Sedang,Sedang,Sedikit,Tidak Ada,Ada,Ada,Layak
+P0552,Putra Utami,Tinggi,Informal,Yatim,Banyak,Sedang,Tinggi,Sedikit,Ada,Ada,Ada,Layak
+P0553,Tono Wijaya,Menengah,Tidak Bekerja,Single Parent,Sedang,Rendah,Rendah,Sedikit,Tidak Ada,Tidak Ada,Ada,Layak
+P0554,Oka Rahman,Rendah,Tidak Bekerja,Yatim Piatu,Sedang,Tinggi,Sedang,Tidak Ada,Tidak Ada,Tidak Ada,Tidak Ada,Layak
+P0555,Putra Rahman,Sangat Rendah,Tidak Bekerja,Yatim,Sedang,Sedang,Tinggi,Banyak,Tidak Ada,Ada,Tidak Ada,Layak
+P0556,Putra Pratama,Sangat Rendah,Tidak Bekerja,Piatu,Sedang,Rendah,Tinggi,Banyak,Tidak Ada,Tidak Ada,Tidak Ada,Tidak Layak
+P0557,Eka Nugroho,Menengah,Formal,Single Parent,Sedikit,Sedang,Rendah,Banyak,Ada,Ada,Tidak Ada,Layak
+P0558,Citra Utami,Rendah,Tidak Bekerja,Piatu,Sedang,Sedang,Tinggi,Sedikit,Ada,Tidak Ada,Tidak Ada,Layak
+P0559,Lina Pratama,Rendah,Formal,Yatim,Sedikit,Tinggi,Rendah,Banyak,Tidak Ada,Tidak Ada,Tidak Ada,Tidak Layak
+P0560,Fajar Pratama,Menengah,Tidak Bekerja,Lengkap,Sedikit,Tinggi,Sedang,Sedikit,Tidak Ada,Tidak Ada,Tidak Ada,Layak
+P0561,Dedi Wijaya,Rendah,Tidak Bekerja,Single Parent,Sedikit,Rendah,Tinggi,Banyak,Ada,Tidak Ada,Tidak Ada,Layak
+P0562,Andi Pratama,Sangat Rendah,Informal,Piatu,Sedang,Tinggi,Sedang,Tidak Ada,Tidak Ada,Tidak Ada,Ada,Layak
+P0563,Dedi Pratama,Rendah,Tidak Bekerja,Yatim,Banyak,Rendah,Sedang,Tidak Ada,Ada,Ada,Ada,Layak
+P0564,Budi Pratama,Sangat Rendah,Informal,Yatim Piatu,Sedikit,Rendah,Rendah,Tidak Ada,Ada,Tidak Ada,Ada,Layak
+P0565,Eka Putri,Menengah,Formal,Lengkap,Sedikit,Rendah,Tinggi,Tidak Ada,Ada,Ada,Tidak Ada,Tidak Layak
+P0566,Gina Putri,Menengah,Informal,Yatim,Banyak,Tinggi,Tinggi,Tidak Ada,Ada,Ada,Ada,Layak
+P0567,Dedi Wijaya,Rendah,Formal,Lengkap,Banyak,Rendah,Rendah,Banyak,Tidak Ada,Tidak Ada,Ada,Layak
+P0568,Rina Wijaya,Menengah,Informal,Yatim Piatu,Sedikit,Tinggi,Rendah,Sedikit,Ada,Tidak Ada,Ada,Layak
+P0569,Oka Setiawan,Tinggi,Informal,Piatu,Banyak,Tinggi,Rendah,Tidak Ada,Tidak Ada,Tidak Ada,Ada,Tidak Layak
+P0610,Kiki Sari,Tinggi,Formal,Piatu,Sedikit,Tinggi,Rendah,Banyak,Ada,Tidak Ada,Ada,Tidak Layak
+P0611,Eka Sari,Rendah,Tidak Bekerja,Piatu,Banyak,Tinggi,Sedang,Tidak Ada,Tidak Ada,Ada,Tidak Ada,Tidak Layak
+P0612,Kiki Sari,Menengah,Formal,Piatu,Sedang,Sedang,Sedang,Banyak,Tidak Ada,Tidak Ada,Tidak Ada,Layak
+P0613,Fajar Sari,Rendah,Formal,Yatim Piatu,Sedikit,Rendah,Rendah,Tidak Ada,Ada,Ada,Ada,Layak
+P0614,Eka Pratama,Tinggi,Tidak Bekerja,Yatim Piatu,Sedikit,Sedang,Sedang,Banyak,Tidak Ada,Tidak Ada,Tidak Ada,Tidak Layak
+P0615,Tono Wijaya,Menengah,Tidak Bekerja,Yatim,Sedang,Rendah,Rendah,Banyak,Tidak Ada,Ada,Ada,Layak
+P0616,Tono Pratama,Tinggi,Tidak Bekerja,Yatim,Sedang,Tinggi,Rendah,Sedikit,Ada,Tidak Ada,Ada,Tidak Layak
+P0617,Andi Nugroho,Menengah,Tidak Bekerja,Lengkap,Sedikit,Sedang,Tinggi,Banyak,Tidak Ada,Tidak Ada,Tidak Ada,Layak
+P0618,Joko Nugroho,Sangat Rendah,Formal,Single Parent,Sedang,Sedang,Tinggi,Banyak,Ada,Ada,Ada,Layak
+P0619,Mira Pratama,Sangat Rendah,Formal,Lengkap,Banyak,Tinggi,Sedang,Tidak Ada,Tidak Ada,Tidak Ada,Ada,Layak
+P0620,Nina Putri,Sangat Rendah,Tidak Bekerja,Yatim,Sedang,Sedang,Sedang,Banyak,Ada,Ada,Tidak Ada,Layak
+P0621,Umar Hidayat,Rendah,Informal,Lengkap,Sedang,Tinggi,Rendah,Sedikit,Tidak Ada,Tidak Ada,Tidak Ada,Tidak Layak
+P0622,Oka Rahman,Sangat Rendah,Informal,Piatu,Banyak,Rendah,Sedang,Banyak,Tidak Ada,Ada,Ada,Layak
+P0623,Putra Putri,Rendah,Informal,Single Parent,Banyak,Tinggi,Tinggi,Tidak Ada,Tidak Ada,Tidak Ada,Tidak Ada,Tidak Layak
+P0624,Rina Hidayat,Rendah,Tidak Bekerja,Piatu,Sedikit,Tinggi,Sedang,Sedikit,Ada,Ada,Ada,Layak
+P0625,Andi Pratama,Tinggi,Tidak Bekerja,Yatim Piatu,Banyak,Tinggi,Tinggi,Sedikit,Tidak Ada,Tidak Ada,Ada,Layak
+P0626,Oka Setiawan,Tinggi,Tidak Bekerja,Yatim,Sedang,Rendah,Rendah,Sedikit,Tidak Ada,Tidak Ada,Tidak Ada,Tidak Layak
+P0627,Andi Hidayat,Menengah,Informal,Yatim,Sedikit,Rendah,Rendah,Banyak,Tidak Ada,Ada,Tidak Ada,Layak
+P0628,Umar Nugroho,Sangat Rendah,Tidak Bekerja,Yatim,Banyak,Sedang,Sedang,Banyak,Tidak Ada,Tidak Ada,Tidak Ada,Layak
+P0629,Gina Sari,Tinggi,Informal,Lengkap,Sedikit,Rendah,Rendah,Tidak Ada,Ada,Ada,Ada,Tidak Layak
+P0630,Nina Saputra,Rendah,Formal,Yatim,Sedang,Tinggi,Tinggi,Tidak Ada,Ada,Tidak Ada,Tidak Ada,Layak
+P0631,Gina Putri,Sangat Rendah,Tidak Bekerja,Yatim,Banyak,Tinggi,Sedang,Sedikit,Tidak Ada,Ada,Tidak Ada,Layak
+P0632,Umar Utami,Tinggi,Tidak Bekerja,Piatu,Sedikit,Rendah,Tinggi,Banyak,Tidak Ada,Tidak Ada,Tidak Ada,Tidak Layak
+P0633,Nina Setiawan,Menengah,Tidak Bekerja,Yatim Piatu,Sedang,Sedang,Tinggi,Banyak,Tidak Ada,Ada,Ada,Layak
+P0634,Nina Saputra,Menengah,Formal,Lengkap,Sedang,Tinggi,Sedang,Sedikit,Ada,Tidak Ada,Tidak Ada,Layak
+P0635,Joko Hidayat,Rendah,Informal,Yatim,Sedang,Sedang,Sedang,Tidak Ada,Ada,Tidak Ada,Tidak Ada,Layak
+P0636,Gina Wijaya,Tinggi,Formal,Piatu,Sedang,Rendah,Tinggi,Tidak Ada,Tidak Ada,Ada,Tidak Ada,Tidak Layak
+P0637,Lina Wijaya,Tinggi,Tidak Bekerja,Yatim Piatu,Sedang,Sedang,Rendah,Tidak Ada,Ada,Ada,Tidak Ada,Tidak Layak
+P0638,Kiki Nugroho,Rendah,Formal,Lengkap,Sedikit,Sedang,Sedang,Tidak Ada,Ada,Ada,Ada,Layak
+P0639,Dedi Pratama,Sangat Rendah,Formal,Piatu,Sedikit,Tinggi,Tinggi,Banyak,Ada,Ada,Tidak Ada,Layak
+P0640,Joko Sari,Sangat Rendah,Formal,Lengkap,Banyak,Rendah,Rendah,Banyak,Ada,Ada,Tidak Ada,Tidak Layak
+P0641,Nina Saputra,Tinggi,Formal,Lengkap,Sedikit,Tinggi,Sedang,Sedikit,Ada,Ada,Ada,Layak
+P0642,Hadi Wijaya,Rendah,Informal,Piatu,Sedang,Tinggi,Rendah,Tidak Ada,Tidak Ada,Tidak Ada,Tidak Ada,Tidak Layak
+P0643,Andi Utami,Tinggi,Tidak Bekerja,Yatim,Sedang,Sedang,Sedang,Sedikit,Tidak Ada,Ada,Tidak Ada,Tidak Layak
+P0644,Eka Setiawan,Sangat Rendah,Tidak Bekerja,Piatu,Sedang,Sedang,Rendah,Sedikit,Ada,Tidak Ada,Ada,Layak
+P0645,Indah Utami,Sangat Rendah,Formal,Single Parent,Sedang,Sedang,Sedang,Banyak,Tidak Ada,Tidak Ada,Tidak Ada,Tidak Layak
+P0646,Joko Pratama,Rendah,Formal,Yatim Piatu,Sedang,Tinggi,Rendah,Banyak,Tidak Ada,Tidak Ada,Tidak Ada,Tidak Layak
+P0647,Sari Putri,Sangat Rendah,Formal,Piatu,Sedang,Tinggi,Tinggi,Banyak,Ada,Tidak Ada,Ada,Tidak Layak
+P0648,Rina Pratama,Menengah,Formal,Yatim,Sedikit,Rendah,Tinggi,Banyak,Tidak Ada,Ada,Tidak Ada,Layak
+P0649,Andi Sari,Sangat Rendah,Informal,Piatu,Banyak,Tinggi,Sedang,Tidak Ada,Ada,Ada,Tidak Ada,Layak
+P0650,Tono Wijaya,Menengah,Tidak Bekerja,Single Parent,Banyak,Tinggi,Tinggi,Banyak,Ada,Tidak Ada,Tidak Ada,Layak
+P0651,Nina Hidayat,Tinggi,Formal,Yatim,Sedikit,Sedang,Tinggi,Banyak,Ada,Tidak Ada,Tidak Ada,Tidak Layak
+P0652,Mira Setiawan,Sangat Rendah,Tidak Bekerja,Lengkap,Sedang,Rendah,Sedang,Tidak Ada,Tidak Ada,Ada,Tidak Ada,Layak
+P0764,Joko Sari,Menengah,Informal,Yatim,Banyak,Tinggi,Sedang,Tidak Ada,Ada,Tidak Ada,Ada,Layak
+P0765,Gina Saputra,Rendah,Formal,Yatim,Sedang,Tinggi,Sedang,Sedikit,Ada,Ada,Ada,Layak
+P0766,Putra Wijaya,Menengah,Formal,Single Parent,Sedikit,Tinggi,Rendah,Sedikit,Tidak Ada,Ada,Ada,Tidak Layak
+P0767,Hadi Hidayat,Sangat Rendah,Tidak Bekerja,Single Parent,Banyak,Sedang,Tinggi,Sedikit,Ada,Tidak Ada,Ada,Tidak Layak
+P0768,Oka Nugroho,Tinggi,Informal,Single Parent,Sedikit,Tinggi,Tinggi,Sedikit,Ada,Tidak Ada,Tidak Ada,Layak
+P0769,Dedi Setiawan,Sangat Rendah,Tidak Bekerja,Lengkap,Sedikit,Rendah,Sedang,Banyak,Ada,Ada,Tidak Ada,Layak
+P0770,Sari Wijaya,Rendah,Informal,Yatim Piatu,Banyak,Tinggi,Sedang,Sedikit,Ada,Ada,Tidak Ada,Tidak Layak
+P0771,Gina Pratama,Tinggi,Formal,Lengkap,Sedang,Tinggi,Tinggi,Banyak,Tidak Ada,Ada,Ada,Layak
+P0772,Fajar Pratama,Rendah,Formal,Yatim,Sedikit,Tinggi,Sedang,Sedikit,Ada,Ada,Ada,Layak
+P0773,Budi Utami,Menengah,Tidak Bekerja,Lengkap,Sedikit,Tinggi,Sedang,Sedikit,Ada,Tidak Ada,Ada,Layak
+P0774,Budi Rahman,Menengah,Formal,Single Parent,Sedang,Rendah,Tinggi,Sedikit,Tidak Ada,Tidak Ada,Ada,Layak
+P0775,Umar Hidayat,Sangat Rendah,Tidak Bekerja,Yatim,Sedang,Rendah,Rendah,Banyak,Ada,Tidak Ada,Tidak Ada,Tidak Layak
+P0776,Nina Wijaya,Sangat Rendah,Formal,Piatu,Sedang,Sedang,Tinggi,Tidak Ada,Tidak Ada,Tidak Ada,Ada,Layak
+P0777,Kiki Hidayat,Rendah,Tidak Bekerja,Piatu,Banyak,Tinggi,Tinggi,Tidak Ada,Tidak Ada,Ada,Tidak Ada,Layak
+P0778,Citra Nugroho,Tinggi,Tidak Bekerja,Single Parent,Sedikit,Rendah,Sedang,Tidak Ada,Ada,Tidak Ada,Ada,Tidak Layak
+P0779,Dedi Wijaya,Menengah,Informal,Yatim,Sedikit,Sedang,Rendah,Tidak Ada,Tidak Ada,Ada,Tidak Ada,Layak
+P0780,Fajar Nugroho,Menengah,Formal,Yatim Piatu,Sedikit,Tinggi,Sedang,Banyak,Tidak Ada,Tidak Ada,Ada,Layak
+P0781,Rina Wijaya,Tinggi,Tidak Bekerja,Piatu,Banyak,Tinggi,Tinggi,Banyak,Tidak Ada,Tidak Ada,Ada,Layak
+P0782,Fajar Sari,Rendah,Tidak Bekerja,Yatim Piatu,Banyak,Tinggi,Sedang,Tidak Ada,Tidak Ada,Ada,Tidak Ada,Layak
+P0783,Nina Nugroho,Menengah,Informal,Single Parent,Sedang,Sedang,Sedang,Banyak,Ada,Tidak Ada,Ada,Layak
+P0784,Sari Sari,Sangat Rendah,Formal,Lengkap,Sedikit,Tinggi,Rendah,Tidak Ada,Ada,Ada,Ada,Layak
+P0785,Andi Hidayat,Sangat Rendah,Informal,Single Parent,Banyak,Rendah,Sedang,Sedikit,Ada,Tidak Ada,Ada,Layak
+P0786,Lina Wijaya,Menengah,Tidak Bekerja,Single Parent,Banyak,Tinggi,Rendah,Banyak,Tidak Ada,Ada,Ada,Tidak Layak
+P0787,Dedi Putri,Menengah,Tidak Bekerja,Yatim Piatu,Sedang,Sedang,Rendah,Sedikit,Ada,Tidak Ada,Ada,Layak
+P0788,Rina Saputra,Menengah,Informal,Piatu,Sedang,Rendah,Rendah,Banyak,Tidak Ada,Ada,Tidak Ada,Layak
+P0789,Andi Nugroho,Tinggi,Formal,Yatim Piatu,Sedikit,Sedang,Rendah,Banyak,Tidak Ada,Tidak Ada,Tidak Ada,Tidak Layak
+P0790,Putra Saputra,Rendah,Informal,Piatu,Sedikit,Rendah,Sedang,Sedikit,Ada,Ada,Ada,Layak
+P0791,Sari Putri,Rendah,Formal,Piatu,Sedikit,Sedang,Sedang,Sedikit,Tidak Ada,Tidak Ada,Tidak Ada,Layak
+P0792,Gina Pratama,Sangat Rendah,Informal,Yatim Piatu,Sedikit,Rendah,Sedang,Banyak,Tidak Ada,Ada,Tidak Ada,Layak
+P0793,Putra Putri,Rendah,Informal,Lengkap,Sedikit,Sedang,Sedang,Banyak,Tidak Ada,Ada,Ada,Layak
+P0794,Mira Wijaya,Sangat Rendah,Informal,Yatim Piatu,Banyak,Sedang,Tinggi,Banyak,Ada,Tidak Ada,Tidak Ada,Layak
+P0795,Kiki Hidayat,Sangat Rendah,Tidak Bekerja,Lengkap,Sedikit,Rendah,Sedang,Banyak,Ada,Ada,Ada,Layak
+P0796,Fajar Rahman,Sangat Rendah,Informal,Yatim Piatu,Sedang,Sedang,Sedang,Tidak Ada,Tidak Ada,Ada,Ada,Layak
+P0797,Rina Setiawan,Menengah,Tidak Bekerja,Piatu,Banyak,Rendah,Tinggi,Sedikit,Ada,Tidak Ada,Ada,Layak
+P0798,Gina Wijaya,Rendah,Tidak Bekerja,Single Parent,Banyak,Tinggi,Rendah,Tidak Ada,Ada,Ada,Tidak Ada,Tidak Layak
+P0799,Nina Sari,Tinggi,Tidak Bekerja,Single Parent,Sedikit,Rendah,Rendah,Sedikit,Tidak Ada,Tidak Ada,Ada,Tidak Layak
+P0800,Nina Rahman,Sangat Rendah,Formal,Yatim Piatu,Banyak,Rendah,Sedang,Tidak Ada,Tidak Ada,Tidak Ada,Tidak Ada,Tidak Layak
